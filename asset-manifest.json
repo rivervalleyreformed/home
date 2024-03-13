@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.e6c13ad2.css",
-    "main.js": "/home/static/js/main.7b8c1a2b.js",
-    "static/js/453.4b8d8fd0.chunk.js": "/home/static/js/453.4b8d8fd0.chunk.js",
-    "static/media/church.jpeg": "/home/static/media/church.9072105a230a23a8e820.jpeg",
-    "static/media/logo.jpg": "/home/static/media/logo.b631bbf52f0bf888f038.jpg",
-    "index.html": "/home/index.html",
-    "main.e6c13ad2.css.map": "/home/static/css/main.e6c13ad2.css.map",
-    "main.7b8c1a2b.js.map": "/home/static/js/main.7b8c1a2b.js.map",
-    "453.4b8d8fd0.chunk.js.map": "/home/static/js/453.4b8d8fd0.chunk.js.map"
+    "main.css": "./static/css/main.e6c13ad2.css",
+    "main.js": "./static/js/main.a744f0e4.js",
+    "static/js/453.4b8d8fd0.chunk.js": "./static/js/453.4b8d8fd0.chunk.js",
+    "static/media/church.jpeg": "./static/media/church.9072105a230a23a8e820.jpeg",
+    "static/media/logo.jpg": "./static/media/logo.b631bbf52f0bf888f038.jpg",
+    "index.html": "./index.html",
+    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
+    "main.a744f0e4.js.map": "./static/js/main.a744f0e4.js.map",
+    "453.4b8d8fd0.chunk.js.map": "./static/js/453.4b8d8fd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7b8c1a2b.js"
+    "static/js/main.a744f0e4.js"
   ]
 }
