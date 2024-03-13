@@ -28,7 +28,7 @@ const Nav = () =>{
                     </nav>
                     <nav>
                         <HStack spacing={8}>
-                            <Link to="/"><b>Home</b></Link>
+                            <Link to="/home"><b>Home</b></Link>
                             <Link to="/worship"><b>Worships</b></Link>
                             <Link to="/events"><b>Events</b></Link>
                             <Link to="/aboutus"><b>About Us</b></Link>
