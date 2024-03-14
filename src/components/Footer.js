@@ -1,5 +1,8 @@
 import React from 'react';
 import {Box, VStack, HStack, Text, Flex} from "@chakra-ui/react";
+import { faFacebook} from '@fortawesome/free-brands-svg-icons';
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 const Footer = ()=>{
     return(
 
@@ -20,9 +23,12 @@ const Footer = ()=>{
             <Text fontSize='md'>rivervalleyreformed@gmail.com</Text>
           </Box>
           <Box p ="6">
-            <a href="https://www.facebook.com/RVFBeaver"><Text>Facebook</Text></a>
+            <HStack spacing={5}>
+              <a href="https://www.facebook.com/RVFBeaver"><FontAwesomeIcon icon={faFacebook} size="2x" /></a>
+              <a href="mailto: rivervalleyreformed@gmail.com"><FontAwesomeIcon icon={faEnvelope} size="2x" /></a>
+            </HStack>
           </Box>
-            
+
           </Flex>
 
         </Box>
